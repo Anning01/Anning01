@@ -15,7 +15,7 @@ Born and raised in the vibrant city of Guangzhou, I bring a blend of cultural ri
 
 ## Let's Connect! 🌐
 
-- 📫 How to reach me: [anningforchina@gmail.com]
+- 📫 How to reach me: anningforchina@gmail.com
 - ⚡ Fun fact: I'm a big fan of emojis and love using them to add a splash of fun to my projects! 😜
 
 ---
