@@ -22,5 +22,4 @@ Born and raised in the vibrant city of Guangzhou, I bring a blend of cultural ri
 
 🌱 *Exploring new horizons, one line of code at a time.* 🌱
 
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anning01/langs)](https://githubtrends.io)
+![安宁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight) [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Anning01/langs)](https://githubtrends.io)
