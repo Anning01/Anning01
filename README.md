@@ -11,12 +11,12 @@
 
 Hi there! I'm an enthusiastic developer who loves to explore and contribute to the open-source world. With a keen interest in artificial intelligence and staying up-to-date with cutting-edge technologies, I'm always ready to embrace new challenges and innovations.
 
-Born and raised in the vibrant city of Guangzhou, I bring a blend of cultural richness and tech-savvy expertise to my work. Whether it's coding, collaborating on projects, or just geeking out about the latest tech trends, you'll find me at the heart of the action!
+I am currently working in Guangzhou, focusing on the fields of web, web crawling, artificial intelligence and deep learning in the Python domain. If you have any related customized projects, please contact me via email.
 
 ## Let's Connect! 🌐
 
 - 📫 How to reach me: anningforchina@gmail.com
-- ⚡ Fun fact: I'm a big fan of emojis and love using them to add a splash of fun to my projects! 😜
+- ⚡ If my project is helpful to you, please don't be stingy with your star. Please give me a click! 😜
 
 ---
 
