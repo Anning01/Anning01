@@ -34,7 +34,7 @@ I am currently working in Guangzhou, focusing on the fields of web, web crawling
 #### 📊 GitHub Statistics
 ![安宁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anning01&theme=tokyonight&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anning01&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anning01&layout=compact&theme=tokyonight)
 
@@ -43,5 +43,4 @@ I am currently working in Guangzhou, focusing on the fields of web, web crawling
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anning01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 🐍 Contribution Snake
-<!-- Snake animation will appear after GitHub Actions runs. Please push this code and manually run the "Generate Snake" workflow in GitHub Actions tab. -->
-<!-- ![Snake animation](https://raw.githubusercontent.com/Anning01/Anning01/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://raw.githubusercontent.com/Anning01/Anning01/output/github-contribution-grid-snake.svg)
