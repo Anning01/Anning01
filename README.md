@@ -7,6 +7,13 @@
 💖 **Interests**: Passionate about open source, AI technology, and the latest in tech!  
 📍 **Location**: Guangzhou, China
 
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Crawler](https://img.shields.io/badge/Web_Crawler-00C7B7?style=for-the-badge&logo=scrapy&logoColor=white)
+
 ## My Journey 🚀
 
 Hi there! I'm an enthusiastic developer who loves to explore and contribute to the open-source world. With a keen interest in artificial intelligence and staying up-to-date with cutting-edge technologies, I'm always ready to embrace new challenges and innovations.
@@ -27,26 +34,14 @@ I am currently working in Guangzhou, focusing on the fields of web, web crawling
 #### 📊 GitHub Statistics
 ![安宁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anning01&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anning01&theme=tokyonight&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anning01&layout=compact&theme=tokyonight)
-
-#### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Anning01&theme=onedark)
 
 
 #### 📈 Contribution Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anning01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Anning01/Anning01/output/github-contribution-grid-snake.svg)
-
-#### 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
-![Crawler](https://img.shields.io/badge/Web_Crawler-00C7B7?style=for-the-badge&logo=scrapy&logoColor=white)
-
-#### 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=Anning01&color=blueviolet&style=flat-square&label=Profile+Views) 
+<!-- Snake animation will appear after GitHub Actions runs. Please push this code and manually run the "Generate Snake" workflow in GitHub Actions tab. -->
+<!-- ![Snake animation](https://raw.githubusercontent.com/Anning01/Anning01/output/github-contribution-grid-snake.svg) -->
