@@ -27,12 +27,13 @@ I am currently working in Guangzhou, focusing on the fields of web, web crawling
 #### 📊 GitHub Statistics
 ![安宁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anning01&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anning01&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anning01&layout=compact&theme=tokyonight)
 
 #### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Anning01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anning01&theme=onedark)
+
 
 #### 📈 Contribution Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anning01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
