@@ -2,8 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 0 * * *"  # 每天北京时间上午 8 点运行
+  workflow_dispatch:     # 允许手动触发
+
+# 核心修改点：添加以下权限配置
+permissions:
+  contents: write
 
 jobs:
   generate:
