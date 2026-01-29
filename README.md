@@ -1,13 +1,46 @@
-# Hello, World! 👋
+# 👋 Hello, World!
 
-## About Me 🌟
+<div align="center">
 
-🎉 **Birthday**: 1996-06-28  
-😄 **Personality**: Cheerful and outgoing  
-💖 **Interests**: Passionate about open source, AI technology, and the latest in tech!  
-📍 **Location**: Guangzhou, China
+## **热爱编程，享受从想法到实现的每一刻**
+*Love coding, enjoy every moment from idea to reality*
 
-### 💻 Tech Stack
+<br>
+
+### 喜欢看到自己的作品被使用和认可
+*Love seeing my work being used and appreciated*
+
+<br>
+
+### **努力实现财务自由，只为不再因几十美元而犹豫错过**
+*Working towards financial freedom, so I never hesitate over a few dollars*
+
+<br>
+
+### 热爱 Python，因为简单而强大
+*Love Python for its simplicity and power*
+
+<br>
+
+### **希望软件能帮助更多的人**
+*Hope my software can help more people*
+
+</div>
+
+---
+
+## 🌟 About Me | 关于我
+
+🎂 **1996-06-28** · 📍 **Guangzhou, China**
+
+😄 开朗乐观 | Cheerful and outgoing
+
+💖 热衷开源、AI 技术与前沿科技 | Passionate about open source, AI & cutting-edge tech
+
+---
+
+## 💻 Tech Stack | 技术栈
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -15,33 +48,59 @@
 ![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Crawler](https://img.shields.io/badge/Web_Crawler-00C7B7?style=for-the-badge&logo=scrapy&logoColor=white)
 
-## My Journey 🚀
+---
 
-Hi there! I'm an enthusiastic developer who loves to explore and contribute to the open-source world. With a keen interest in artificial intelligence and staying up-to-date with cutting-edge technologies, I'm always ready to embrace new challenges and innovations.
+## 🚀 My Journey | 我的旅程
 
-I am currently working in Guangzhou, focusing on the fields of web, web crawling, artificial intelligence and deep learning in the Python domain. If you have any related customized projects, please contact me via email.
+目前在广州工作，专注于 Web 开发、爬虫、人工智能和深度学习领域。
 
-## Let's Connect! 🌐
+如有相关定制项目需求，欢迎邮件联系！
 
-- 📫 How to reach me: anningforchina@gmail.com
-- ⚡ If my project is helpful to you, please don't be stingy with your star. Please give me a click! 😜
+*Currently working in Guangzhou, focusing on Web, Crawlers, AI and Deep Learning.*
+
+*Feel free to reach out for custom project collaborations!*
 
 ---
 
-🌱 *Exploring new horizons, one line of code at a time.* 🌱
+## 🌐 Let's Connect | 联系我
 
-### About Code
+📫 **Email**: anningforchina@gmail.com
 
-#### 📊 GitHub Statistics
-![安宁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight)
+⭐ 如果我的项目对你有帮助，请给个 Star 支持一下！
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anning01&theme=dark)](https://git.io/streak-stats)
+*If my project helps you, please give it a Star!* 😜
+
+---
+
+## 📊 GitHub Stats | 统计数据
+
+<div align="center">
+
+![Anning's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anning01&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anning01&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anning01&layout=compact&theme=tokyonight)
 
+</div>
 
-#### 📈 Contribution Activity
+---
+
+## 📈 Activity | 活跃度
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anning01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake | 贡献蛇
+
 ![Snake animation](https://raw.githubusercontent.com/Anning01/Anning01/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### **一行代码，探索无限可能**
+*Exploring new horizons, one line of code at a time* 🌱
+
+</div>
