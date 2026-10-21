@@ -65,6 +65,7 @@
 ## 🌐 Let's Connect | 联系我
 
 📫 **Email**: anningforchina@gmail.com
+🛰️ **微信**：anningforchina
 
 ⭐ 如果我的项目对你有帮助，请给个 Star 支持一下！
 
